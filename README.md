@@ -1,4 +1,4 @@
-# sorting-algorithm-visualizer
+# emoji-sorting-visualizer
 
 Command-line sorting algorithm visualizer.
 
